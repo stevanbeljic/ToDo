@@ -1,0 +1,3 @@
+Mow the lawn:false
+Workout:true
+Make dinner:false
