@@ -1,3 +1,2 @@
-Mow the lawn:false
 Workout:true
-Make dinner:false
+Make shelf:false
