@@ -7,7 +7,7 @@ A simple Todo list application developed in Java with both in-terminal and GUI i
 To run:<br>
 1. Navigate to project root
 2. Navigate to the ``build`` folder
-3. Extract ToDo_jar.zip
+3. Extract ``ToDo_jar.zip``
 4. Run the executable
 5. Voila!
 
