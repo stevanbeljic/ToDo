@@ -3,11 +3,24 @@
     <CLASSES>
       <root url="jar://$USER_HOME$/Downloads/miglayout-core-11.3.jar!/" />
       <root url="jar://$USER_HOME$/Downloads/miglayout-swing-11.3.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jackson-databind-2.17.1.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jackson-core-2.17.1.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jackson-annotations-2.17.1.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/flatlaf-3.4.1.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/flatlaf-intellij-themes-3.4.1.jar!/" />
     </CLASSES>
-    <JAVADOC />
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/Downloads/jackson-databind-2.17.1-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jackson-core-2.17.1-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jackson-annotations-2.17.1-javadoc.jar!/" />
+    </JAVADOC>
     <SOURCES>
       <root url="jar://$USER_HOME$/Downloads/miglayout-core-11.3-sources.jar!/" />
       <root url="jar://$USER_HOME$/Downloads/miglayout-swing-11.3-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jackson-databind-2.17.1-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jackson-core-2.17.1-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jackson-annotations-2.17.1-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/flatlaf-intellij-themes-3.4.1-sources.jar!/" />
     </SOURCES>
   </library>
 </component>
